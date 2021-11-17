@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: start;
-    width: 60%;
+    width: 20%;
     height: 100vh;
 }
 
@@ -41,7 +41,7 @@ body {
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
     flex-direction: column;
-    width: 50%;
+    width: 30%;
     min-height: 34rem;
 }
 
@@ -93,7 +93,7 @@ body {
 }
 
 .link-blue {
-    color: #0095f6;
+    color: #131414;
 }
 
 .get-the-app {
@@ -138,7 +138,7 @@ body {
 
 @media (max-width: 650px) {
     body {
-        background-color: #ffffff;
+        background-color: black;
     }
 
     .instagram-wrapper {
